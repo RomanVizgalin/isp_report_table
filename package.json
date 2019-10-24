@@ -1,0 +1,18 @@
+{
+  "name": "isp_report_table",
+  "version": "1.0.0",
+  "description": "Your package description",
+  "scripts": {
+    "test": "command for testing package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myname/mypackage.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myname/mypackage/issues"
+  },
+  "homepage": "https://github.com/myname/mypackage#readme"
+}
